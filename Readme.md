@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Alexey Lisichonok](https://up.htmlacademy.ru/javascript/18/user/794701).
-* Наставник: `Неизвестно`.
+* Наставник: Владислав Пинчук.
 
 ---
 
